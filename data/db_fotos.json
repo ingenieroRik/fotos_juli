@@ -1,0 +1,34 @@
+[
+ {
+  "id": 1,
+  "nombre": "ARCADE FIRE, LOLLAPALOOZA, 2024",
+  "img": "images/ARCADE FIRE_LOLLAPALOOZA_2024.jpg"
+  
+ },
+ {
+  "id": 2,
+  "nombre": "Blink 182",
+  "img": "ac_dc.jpg"
+  
+ },
+ {
+  "id": 3,
+  "nombre": "Remera Simpsons",
+  "img": "bart+lisa.jpg"
+ },
+ {
+      "id": 4,
+      "nombre": "Remera4",
+      "img": "infierno.jpg"
+    },
+ {
+  "id": 5,
+  "nombre": "Remera5",
+  "img": "oasis.jpg"
+ },
+ {
+  "id": 6,
+  "nombre": "Star Wars",
+  "img": "mini-yoda.jpg"
+ }
+]
