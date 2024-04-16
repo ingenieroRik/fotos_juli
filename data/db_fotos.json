@@ -39,7 +39,7 @@
  {
   "id": 6,
   "name": "Ian Gillian, Deep Purple, Masters of Rock, 2023",
-  "img": "images/deep_purple_1.jpg",
+  "img": "https://fotos-juli.onrender.com/api/fotos/images/deep_purple_1.jpg",
   "artist" : "Ian Gillian",
   "band" : "Deep Purple",
   "venue" : "Masters of Rock",
