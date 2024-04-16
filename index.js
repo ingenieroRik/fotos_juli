@@ -15,11 +15,11 @@ app.get("/", (req,res) => {
     res.send("db_fotos api");
 });
 
-app.get("/api_fotos/db_fotos", (req,res) => {
+app.get("/api/fotos", (req,res) => {
     res.send(db_fotos);
 });
 
-app.get("/api_fotos/db_fotos/:id", (req,res) => {
+app.get("/api/fotos/:id", (req,res) => {
     const foto = db_fotos.find(c => c.id === parseInt(req.params.id));
     if (!foto) return res.status(404).send("Foto no encontrada");
     else res.send(foto);
