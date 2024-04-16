@@ -35,19 +35,11 @@
   "venue" : "Auditorio Oeste",
   "year" : 2022
     },
- {
-  "id": 5,
-  "name": "Remera5",
-  "img": "oasis.jpg",
-  "artist" : "Arcade Fire",
-  "band" : "Arcade Fire",
-  "venue" : "Lollapalloza",
-  "year" : 2023
- },
+ 
  {
   "id": 6,
   "name": "Ian Gillian, Deep Purple, Masters of Rock, 2023",
-  "img": "deep_purple_1.jpg",
+  "img": "images/deep_purple_1.jpg",
   "artist" : "Ian Gillian",
   "band" : "Deep Purple",
   "venue" : "Masters of Rock",
@@ -56,7 +48,7 @@
  {
   "id": 7,
   "name": "Ian Gillian, Deep Purple, Masters of Rock, 2023",
-  "img": "deep_purple_2.jpg",
+  "img": "images/deep_purple_2.jpg",
   "artist" : "Ian Gillian",
   "band" : "Deep Purple",
   "venue" : "Masters of Rock",
@@ -65,7 +57,7 @@
  {
   "id": 8,
   "name": "Deep Purple, Masters of Rock, 2023",
-  "img": "deep_purple_3.jpg",
+  "img": "images/deep_purple_3.jpg",
   "artist" : "Deep Purple",
   "band" : "Deep Purple",
   "venue" : "Masters of Rock",
@@ -74,7 +66,7 @@
  {
   "id": 9,
   "name": "Deep Purple, Masters of Rock, 2023",
-  "img": "deep_purple_4.jpg",
+  "img": "images/deep_purple_4.jpg",
   "artist" : "Deep Purple",
   "band" : "Deep Purple",
   "venue" : "Masters of Rock",
@@ -83,7 +75,7 @@
  {
   "id": 10,
   "name": "Ricardo Moyo, Divididos, Cosquin Rock, 2024",
-  "img": "DIVIDIDOS_COSQUINROCK_2024.jpg",
+  "img": "images/DIVIDIDOS_COSQUINROCK_2024.jpg",
   "artist" : "Ricardo Moyo",
   "band" : "Divididos",
   "venue" : "Cosquin Rock",
@@ -92,7 +84,7 @@
  {
   "id": 11,
   "name": "DUA LIPA, Campo Argentino de Polo,2022",
-  "img": "DUA LIPA_CAMPO ARG DE POLO_2022.jpg",
+  "img": "images/DUA LIPA_CAMPO ARG DE POLO_2022.jpg",
   "artist" : "Dua Lipa",
   "band" : "Dua Lipa",
   "venue" : "Campo Argentino de Polo",
@@ -101,7 +93,7 @@
  {
   "id": 12,
   "name": "GHOST, Movistar Arena, 2023.jpg",
-  "img": "GHOST_MOVISTAR ARENA_2023.jpg",
+  "img": "images/GHOST_MOVISTAR ARENA_2023.jpg",
   "artist" : "Ghost",
   "band" : "Ghost",
   "venue" : "Movistar Arena",
@@ -110,7 +102,7 @@
  {
   "id": 13,
   "name": "Kiss, Masters of Rock, 2023 ",
-  "img": "kiss_1.jpg",
+  "img": "images/kiss_1.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -119,7 +111,7 @@
  {
   "id": 14,
   "name": "Kiss, Masters of Rock, 2023",
-  "img": "kiss_2.jpg",
+  "img": "images/kiss_2.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -128,7 +120,7 @@
  {
   "id": 15,
   "name": "Kiss, Masters of Rock, 2023",
-  "img": "kiss_3.jpg",
+  "img": "images/kiss_3.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -136,7 +128,7 @@
  },{
   "id": 16,
   "name": "Kiss, Masters of Rock, 2023",
-  "img": "kiss_4.jpg",
+  "img": "images/kiss_4.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -144,7 +136,7 @@
  },{
   "id": 17,
   "name": "Kiss, Masters of Rock, 2023",
-  "img": "kiss_5.jpg",
+  "img": "images/kiss_5.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -153,7 +145,7 @@
  {
   "id": 18,
   "name": "Kiss, Masters of Rock, 2023",
-  "img": "kiss_6.jpg",
+  "img": "images/kiss_6.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -162,7 +154,7 @@
  {
   "id": 19,
   "name": "Gene Simmons, Kiss, Masters of Rock, 2023",
-  "img": "kiss_7.jpg",
+  "img": "images/kiss_7.jpg",
   "artist" : "Gene Simmons",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -171,7 +163,7 @@
  {
   "id": 20,
   "name": "Gene Simmons, Kiss, Masters of Rock, 2023",
-  "img": "kiss_8.jpg",
+  "img": "images/kiss_8.jpg",
   "artist" : "Gene Simmons",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -180,7 +172,7 @@
  {
   "id": 21,
   "name": "Paul Stanley, Kiss, Masters of Rock, 2023",
-  "img": "kiss_9.jpg",
+  "img": "images/kiss_9.jpg",
   "artist" : "Paul Stanley",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -189,7 +181,7 @@
  {
   "id": 22,
   "name": "Kiss, Masters of Rock, 2023",
-  "img": "kiss_10.jpg",
+  "img": "images/kiss_10.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -198,7 +190,7 @@
  {
   "id": 23,
   "name": "Kiss, Masters of Rock, 2023",
-  "img": "kiss_11.jpg",
+  "img": "images/kiss_11.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -207,7 +199,7 @@
  {
   "id": 24,
   "name": "Kiss, Masters of Rock, 2023",
-  "img": "kiss_21.jpg",
+  "img": "images/kiss_21.jpg",
   "artist" : "Kiss",
   "band" : "Kiss",
   "venue" : "Masters of Rock",
@@ -216,7 +208,7 @@
  {
   "id": 25,
   "name": ", Estadio velez, 2023",
-  "img": "LALI_VELEZ_2023.jpg",
+  "img": "images/LALI_VELEZ_2023.jpg",
   "artist" : "Lali Esposito",
   "band" : "Lali Esposito",
   "venue" : "Estadio velez",
@@ -225,7 +217,7 @@
  {
   "id": 26,
   "name": "Sebastián Teysera, La Vela Puerca, Cosquin Rock, 2024",
-  "img": "LAVELAPUERCA_COSQUINROCK_2024.jpg",
+  "img": "images/LAVELAPUERCA_COSQUINROCK_2024.jpg",
   "artist" : "Sebastián Teysera",
   "band" : "La Vela Puerca",
   "venue" : "Cosquin Rock",
@@ -235,7 +227,7 @@
  {
   "id": 27,
   "name": "María Becerra, Festival Equal, 2023",
-  "img": "MARIA BECERRA_FESTIVAL EQUAL_2023.jpg",
+  "img": "images/MARIA BECERRA_FESTIVAL EQUAL_2023.jpg",
   "artist" : "María Becerra",
   "band" : "María Becerra",
   "venue" : "Festival Equal",
@@ -244,7 +236,7 @@
  {
   "id": 28,
   "name": "Red Hot Chilli Peppers, Estadio River, 2023",
-  "img": "RED HOT CHILLI PEPPERS_ RIVER_2023.jpg",
+  "img": "images/RED HOT CHILLI PEPPERS_ RIVER_2023.jpg",
   "artist" : "Red Hot Chilli Peppers",
   "band" : "Red Hot Chilli Peppers",
   "venue" : "Estadio River",
@@ -253,7 +245,7 @@
  {
   "id": 29,
   "name": "Rosalia, Movistar Arena, 2023",
-  "img": "ROSALIA_MOVISTAR ARENA_2022.jpg",
+  "img": "images/ROSALIA_MOVISTAR ARENA_2022.jpg",
   "artist" : "Rosalía",
   "band" : "Rosalía",
   "venue" : "",
@@ -262,7 +254,7 @@
  {
   "id": 30,
   "name": "Klauss Meine, Scorpions, Masters of Rock, 2023",
-  "img": "Scorpions_1.jpg",
+  "img": "images/Scorpions_1.jpg",
   "artist" : "Klauss Meine",
   "band" : "Scorpions",
   "venue" : "Masters of Rock",
@@ -271,7 +263,7 @@
  {
   "id": 31,
   "name": "Matias Jabs, Scorpions, Masters of Rock, 2023",
-  "img": "Scorpions_2.jpg",
+  "img": "images/Scorpions_2.jpg",
   "artist" : "Matias Jabs",
   "band" : "Scorpions",
   "venue" : "Masters of Rock",
@@ -280,7 +272,7 @@
  {
   "id": 32,
   "name": "Klauss Meine, Scorpions, Masters of Rock, 2023",
-  "img": "Scorpions_3.jpg",
+  "img": "images/Scorpions_3.jpg",
   "artist" : "Scorpions",
   "band" : "Scorpions",
   "venue" : "Masters of Rock",
@@ -289,7 +281,7 @@
  {
   "id": 33,
   "name": "SKAY, Cosquín Rock, 2024.jpg",
-  "img": "SKAY_COSQUIN ROCK_2024.jpg",
+  "img": "images/SKAY_COSQUIN ROCK_2024.jpg",
   "artist" : "Skay",
   "band" : "Skay",
   "venue" : "Cosquín Rock",
@@ -298,7 +290,7 @@
  {
   "id": 34,
   "name": "Slash, Cosquín Rock, 2024",
-  "img": "SLASH_COSQUINROCK_2024.jpg",
+  "img": "images/SLASH_COSQUINROCK_2024.jpg",
   "artist" : "Slash",
   "band" : "Slash",
   "venue" : "Cosquín Rock",
@@ -307,7 +299,7 @@
  {
   "id": 35,
   "name": "Chano, Tan Biónica, La Plata, 2023",
-  "img": "TAN BIONICA_LA PLATA_2023.jpg",
+  "img": "images/TAN BIONICA_LA PLATA_2023.jpg",
   "artist" : "Chano",
   "band" : "Tan Biónica",
   "venue" : "La Plata",
@@ -316,7 +308,7 @@
  {
   "id": 36,
   "name": "Viticus, Teatro de Flores, 2023",
-  "img": "viticus_1.jpg",
+  "img": "images/viticus_1.jpg",
   "artist" : "Viticus",
   "band" : "Viticus",
   "venue" : "Teatro de Flores",
@@ -325,7 +317,7 @@
  {
   "id": 37,
   "name": "Viticus, Teatro de Flores, 2023",
-  "img": "viticus_2.jpg",
+  "img": "images/viticus_2.jpg",
   "artist" : "Viticus",
   "band" : "Viticus",
   "venue" : "Teatro de Flores",
@@ -334,7 +326,7 @@
  {
   "id": 38,
   "name": "Viticus, Teatro de Flores, 2023",
-  "img": "viticus_3.jpg",
+  "img": "images/viticus_3.jpg",
   "artist" : "Viticus",
   "band" : "Viticus",
   "venue" : "Teatro de Flores",
@@ -343,7 +335,7 @@
  {
   "id": 39,
   "name": "Viticus, Teatro de Flores, 2023",
-  "img": "viticus_4.jpg",
+  "img": "images/viticus_4.jpg",
   "artist" : "Viticus",
   "band" : "Viticus",
   "venue" : "Teatro de Flores",
@@ -352,7 +344,7 @@
  {
   "id": 40,
   "name": "Viticus, Teatro de Flores, 2023",
-  "img": "viticus_5.jpg",
+  "img": "images/viticus_5.jpg",
   "artist" : "Viticus",
   "band" : "Viticus",
   "venue" : "Teatro de Flores",
@@ -361,7 +353,7 @@
  {
   "id": 41,
   "name": "Viticus, Teatro de Flores, 2023",
-  "img": "viticus_6.jpg",
+  "img": "images/viticus_6.jpg",
   "artist" : "Viticus",
   "band" : "Viticus",
   "venue" : "Teatro de Flores",
@@ -370,7 +362,7 @@
  {
   "id": 42,
   "name": "Wos, Zona Rock Morón, 2023",
-  "img": "WOS_MORON_2023.jpg",
+  "img": "images/WOS_MORON_2023.jpg",
   "artist" : "Wos",
   "band" : "Wos",
   "venue" : "Zona Rock Morón",
