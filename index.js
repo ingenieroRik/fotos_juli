@@ -2,7 +2,7 @@ const express = require ("express");
 const app = express();
 const path = require('path');
 const fs = require("fs");
-
+const cors = require ('cors') // <--------- para que puedan ver los datos de nuestra api  hacer  --> npm i cors
 
 app.use(express.json());
 
