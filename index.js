@@ -6,7 +6,7 @@ const cors = require ('cors') // <--------- para que puedan ver los datos de nue
 
 app.use(express.json());
 
-
+app.use(cors());
 
 const fotosFilePath = path.join(__dirname, "data/db_fotos.json");
 const db_fotos = JSON.parse(fs.readFileSync(fotosFilePath, "utf-8"));
