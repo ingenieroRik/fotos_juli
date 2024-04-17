@@ -6,24 +6,40 @@ const cors = require ('cors') // <--------- para que puedan ver los datos de nue
 
 app.use(express.json());
 
+
+
 app.use(cors());
+
+
+// Servir archivos estáticos desde el directorio 'public'
+app.use(express.static('public'));
 
 const fotosFilePath = path.join(__dirname, "data/db_fotos.json");
 const db_fotos = JSON.parse(fs.readFileSync(fotosFilePath, "utf-8"));
 
 app.get("/", (req,res) => {
+    
     res.send("db_fotos api");
 });
 
 app.get("/api/fotos", (req,res) => {
+   
     res.send(db_fotos);
 });
 
 app.get("/api/fotos/:id", (req,res) => {
+   
     const foto = db_fotos.find(c => c.id === parseInt(req.params.id));
     if (!foto) return res.status(404).send("Foto no encontrada");
     else res.send(foto);
 });
+
+app.get("/api/fotos/:id/img", (req, res) => {
+    const foto = db_fotos.find(c => c.id === parseInt(req.params.id));
+    if (!foto) return res.status(404).send("Foto no encontrada");
+    else res.sendFile(path.join(__dirname, 'public', 'images', foto.img));
+});
+
 
 // ponemos a escuchar el servidor
 app.listen(process.env.PORT || 3042, () =>  // si subimos a un hosting este nos dará el puerto, sinó sera 3041
