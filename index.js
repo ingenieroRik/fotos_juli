@@ -11,6 +11,13 @@ app.use(express.json());
 app.use(cors());
 
 
+// indicamos a express usar la plantilla EJS que esta en carpeta views.
+app.set('view engine', 'ejs');
+
+//si la ruta por defecto no es /views debemos decirle a node que la carpeta se encuentra
+// en otra ruta, para ello usamos:
+app.set('views', './public/views');
+
 // Servir archivos estáticos desde el directorio 'public'
 app.use(express.static('public'));
 
@@ -19,7 +26,7 @@ const db_fotos = JSON.parse(fs.readFileSync(fotosFilePath, "utf-8"));
 
 app.get("/", (req,res) => {
     
-    res.send("db_fotos api");
+    res.render("index.ejs");
 });
 
 app.get("/api/fotos", (req,res) => {
