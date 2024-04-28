@@ -1,7 +1,7 @@
 [
  {
   "id": 1,
-  "name": "ARCADE FIRE, LOLLAPALOOZA, 2024",
+  "name": "Arcade Fire, Lollapalloza, 2024",
   "img": "ARCADE_FIRE_LOLLAPALOOZA_2024.jpg",
   "artist" : "Arcade Fire",
   "band" : "Arcade Fire",
@@ -257,12 +257,12 @@
   "artist" : "Rosalía",
   "band" : "Rosalía",
   "venue" : "",
-  "year" : 202
+  "year" : 2023
  },
  {
   "id": 30,
   "name": "Klauss Meine, Scorpions, Masters of Rock, 2023",
-  "img": "Scorpions_1.jpg",
+  "img": "scorpions_1.jpg",
   "artist" : "Klauss Meine",
   "band" : "Scorpions",
   "venue" : "Masters of Rock",
@@ -271,7 +271,7 @@
  {
   "id": 31,
   "name": "Matias Jabs, Scorpions, Masters of Rock, 2023",
-  "img": "Scorpions_2.jpg",
+  "img": "scorpions_2.jpg",
   "artist" : "Matias Jabs",
   "band" : "Scorpions",
   "venue" : "Masters of Rock",
@@ -280,7 +280,7 @@
  {
   "id": 32,
   "name": "Klauss Meine, Scorpions, Masters of Rock, 2023",
-  "img": "Scorpions_3.jpg",
+  "img": "scorpions_3.jpg",
   "artist" : "Scorpions",
   "band" : "Scorpions",
   "venue" : "Masters of Rock",
@@ -381,8 +381,8 @@
   "name": "Dave Mustaine, Megadeth, Movistar Arena, 2024",
   "img": "Dave_Mustaine_1_Megadeth_Movistar_Arena_2024.jpeg",
   "artist" : "Dave Mustaine ",
-"band" : "Megadeth",
-"venue" : "Movistar Arena",
-"year" : 2024
+  "band" : "Megadeth",
+  "venue" : "Movistar Arena",
+  "year" : 2024
 }
 ]

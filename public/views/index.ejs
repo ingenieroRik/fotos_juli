@@ -59,30 +59,29 @@
         </table>
         </div> 
 
-
-            <div class="container text-center mt-4 ">
-            
-                <hr />   
-                <div class="row foto-principal">         
+          <div class="container text-center mt-4">
+            <hr />
+            <div class="row foto-principal">
+                <% fotos.forEach(foto => { %>
                     <div class="col-md-3 mb-4">
-                        <div class="">            
-                            <img         
-                                src="../images/kiss_1.jpg"
-                                alt="Foto"
-                                class="card-img-top" />
-                                <div class="card-body">      
-                                        <ul class="description text-decoration-none">
-                                            <li>         
-                                                <span>  Kiss, Masters of Rock, 2023 </span>
-                                            </li>
-                                        </ul>
+                        <div class="card">
+                          <div class="custom-img-container">
+                            <img src="../images/<%= foto.img %>" class="custom-img" alt="Foto">
+                            </div>
+                            <div class="card-body">
+                                <ul class="description text-decoration-none">
+                                    <li>
+                                        <span><%= foto.id %>- <%=foto.name %>.</span>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                </div>
-  
-     
+                <% }) %>
             </div>
-        </div>
+          </div>
+
+
 
 
     </main>
@@ -96,8 +95,8 @@
         </div>
     
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex etiquetasFooter">
-          <li class="ms-3"><a class="text-muted twitter" href="https://twitter.com/Juligfotografia "><svg class="bi" width="24" height="24"><use xlink:href="#twitter"/></svg></a></li>
-          <li class="ms-3"><a class="text-muted" href="https://www.instagram.com/juligarciafotografia/"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"/></svg></a></li>
+          <li class="ms-3"><a class="text-muted twitter" href="https://twitter.com/Juligfotografia " target="_blank"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"/></svg></a></li>
+          <li class="ms-3"><a class="text-muted" href="https://www.instagram.com/juligarciafotografia/" target="_blank"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"/></svg></a></li>
           
         </ul>
       </footer>
